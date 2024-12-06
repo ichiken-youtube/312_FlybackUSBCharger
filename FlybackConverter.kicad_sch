@@ -3052,7 +3052,7 @@
     (property "Reference" "R7" (at 180.34 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "390" (at 180.34 132.08 0)
+    (property "Value" "220" (at 180.34 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 176.657 130.81 90)
